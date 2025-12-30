@@ -1,6 +1,6 @@
 
 let db;
-const DB_NAME = "SmartWalletDB";
+const DB_NAME = "WealthPilot";
 const DB_VERSION = 1;
 
 // j'ouvre la base de donnée
